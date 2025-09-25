@@ -1,2 +1,7 @@
-# Modelos-Simulaci-n-I-Proyecto-Kaggle
-Análisis y Preprocesamiento de Datos para Competición Kaggle - UDEA AI4ENG20252 Trabajo universitario centrado en el análisis exploratorio y preprocesamiento de un dataset para la competición de Kaggle "UDEA/ai4eng 20252 - Pruebas Saber Pro Colombia"
+# Integrantes del equipo
+
+Jenny Andrea Orozco Osorio - CC: 43918288 - Ingeniería de Sistemas
+
+Xiomara Giraldo Perez - CC:1023724297  - Ingeniería de Sistemas
+
+Santiago Villegas Naranjo- CC:1001479227  - Ingeniería de Sistemas
