@@ -7,5 +7,8 @@ Xiomara Giraldo Perez - CC:1023724297  - Ingeniería de Sistemas
 Santiago Villegas Naranjo- CC:1001479227  - Ingeniería de Sistemas
 
 # Segunda Entrega
+Archivo 02_preprocesado.ipynb con todo el preprocesamiento de los datos explicado en el siguiente video: 
+https://youtu.be/Y2E9YQUYhuE?feature=shared
+
 
 
