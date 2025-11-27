@@ -10,5 +10,8 @@ Santiago Villegas Naranjo- CC:1001479227  - Ingeniería de Sistemas
 Archivo 02_preprocesado.ipynb con todo el preprocesamiento de los datos explicado en el siguiente video: 
 https://youtu.be/Y2E9YQUYhuE?feature=shared
 
+# Entrega Final
+Explicación en el siguiente video:
+
 
 
