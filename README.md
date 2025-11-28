@@ -12,6 +12,8 @@ https://youtu.be/Y2E9YQUYhuE?feature=shared
 
 # Entrega Final
 Explicación en el siguiente video:
+https://www.youtube.com/watch?v=ZL8RFDMbhg4
+
 
 
 
